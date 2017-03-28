@@ -56,6 +56,10 @@ h1 {
 	font-family: Amatic SC, serif;
 	padding-top: 2vh;
 }
+h2 {
+	font-size: 3em;
+	margin-bottom: 1em;
+}
 
 p {
 	line-height: 1.7em;
@@ -99,4 +103,15 @@ p {
 	.wenzelme {
 		width: 100%;
 	}
+}
+
+b {
+	line-height: 2.1em;
+	font-weight: bold;
+}
+
+hr {
+	margin: 8em 0 2em 0;
+	border: 1px solid #ccc;
+	border-bottom: 0;
 }
